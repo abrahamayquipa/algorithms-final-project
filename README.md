@@ -31,6 +31,6 @@ The content specifying the necessary requirements for the game will be attached 
 
 <br />
 <div align="center">
-    <img src="./home.JPG" height = "120", width = "105">
+    <img src="./home.JPG" height = "798", width = "475">
   </a>
 </div>
