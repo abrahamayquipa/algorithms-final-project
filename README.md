@@ -3,11 +3,14 @@
   <a href="https://github.com/AbrahamAyquipa/algoritmosEjercicios">
     <img src="./logo.png" height = "120", width = "105">
   </a>
-
   <h1 align="center">Final project algorithms</h1>
   <p align="center">
     The following repository will store all project resources without exception. 
   </p>
+  <div align="center">
+    <img src="./home.JPG" height = "475", width = "798">
+  </a>
+</div>
 </div>
 
 ## Language used
@@ -26,11 +29,3 @@ You have two options:
 ## Content
 
 The content specifying the necessary requirements for the game will be attached in the pdf file.
-
-## Screenshots
-
-<br />
-<div align="center">
-    <img src="./home.JPG" height = "475", width = "798">
-  </a>
-</div>
