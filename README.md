@@ -30,3 +30,8 @@ You have two options:
 ## Content
 
 The content specifying the necessary requirements for the game will be attached in the pdf file.
+
+## Authors
+
+- [@PANDA](https://github.com/PANDA00007)
+- [@AndresCRs](https://github.com/AndresCRs)
