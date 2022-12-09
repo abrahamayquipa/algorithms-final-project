@@ -7,10 +7,7 @@
   <p align="center">
     The following repository will store all project resources without exception. 
   </p>
-  <div align="center">
     <img src="./home.JPG" height = "475", width = "798">
-  </a>
-</div>
 </div>
 
 ## Language used: 
