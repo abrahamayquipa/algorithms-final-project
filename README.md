@@ -1,8 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/AbrahamAyquipa/algoritmosEjercicios">
-    <img src="./logo.png" height = "120", width = "105">
-  </a>
+  <img src="./logo.png" height = "120", width = "105">
   <h1 align="center">Final project algorithms</h1>
   <p align="center">
     The following repository will store all project resources without exception. 
